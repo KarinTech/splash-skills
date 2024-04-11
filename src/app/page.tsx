@@ -1,6 +1,6 @@
 
 export default function Home() {
   return (
-    <div>Ola Mundo</div>
+    <div>Ola Mundo Splash</div>
   );
 }
